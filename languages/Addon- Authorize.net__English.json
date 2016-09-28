@@ -1,0 +1,17 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "authorizenet",
+    "Strings": [
+        {
+            "slug": "authorizenet_settings",
+            "text": "Authorize.net Settings"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}
